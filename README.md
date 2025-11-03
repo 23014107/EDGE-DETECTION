@@ -5,8 +5,7 @@ NAME : RAMYA.P
 REG NO : 212223240137
 
 ## Aim:
-    
-    To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
+To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
 ## Software Required:
 Anaconda - Python 3.7
